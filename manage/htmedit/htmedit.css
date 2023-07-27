@@ -1,0 +1,49 @@
+body
+{
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+}
+TD
+{
+  font-size : 12px;
+  color : #3a3a3a;
+  line-height : 21px;
+  font-family : Tahoma;
+}
+a{
+  color : #074a9c;
+  text-decoration : underline;
+}
+a:hover
+{
+  color : #ff8040;
+  text-decoration : none;
+}
+.font12{
+  font-size : 12px;
+}
+.font14{
+  font-size : 14px;
+}
+.font14plus{
+  font-size : 14px;
+  color : white;
+  font-weight : bold;
+  text-indent : 20px;
+}
+INPUT{
+  font-size : 12px;
+  color : #373737;
+  font-family : Tahoma;
+}
+.table{
+  margin-top : 1px;
+  margin-left : 1px;
+  margin-right : 1px;
+  margin-bottom : 1px;
+  border-width : 1px 1px 1px 1px;
+  border-style : dashed dashed dashed dashed;
+  border-color : gray gray gray gray;
+}

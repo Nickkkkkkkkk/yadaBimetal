@@ -1,0 +1,39 @@
+body
+{
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+}
+
+td
+{
+  font-size : 12px;
+  color : #3a3a3a;
+  line-height : 21px;
+}
+
+a{
+  color : #074a9c;
+  text-decoration : underline;
+}
+
+a:hover
+{
+  color : #ff8040;
+  text-decoration : none;
+}
+
+.font12{
+  font-size : 12px;
+}
+
+.font14{
+  font-size : 14px;
+}
+
+.font14plus{
+  font-size : 14px;
+  color : white;
+  font-weight : bold;
+}

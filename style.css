@@ -1,0 +1,56 @@
+BODY {
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+  text-align : center;
+  color : #808080;
+}
+TD{
+  font-size : 12px;
+  line-height : 21px;
+  font-family : Verdana;
+}
+A{
+  color : #808080;
+  text-decoration : none;
+}
+A:HOVER{
+  color : #fdb462;
+  text-decoration : underline;
+}
+.input{
+  width : 130px;
+  height : 21px;
+}
+.test
+{
+  color: 000000;
+  text-decoration: underline;
+  color : black;
+}
+DIV{
+  background-position : 1px 1px;
+}
+.font14{
+	text-align:center;
+	color : white;
+	font-weight:bold;
+	font-size:14px;
+}
+.font14 a{color : white;font-size:14px;}
+.menu_onover{
+	background-image:url(images/menu_j_2.gif);
+}
+.menu_onover a:hover{color : white;}
+
+
+
+/*公共样式*/
+.sys_style_title{font-size : 14px;font-weight : bold;color : #FF3C00;}
+.sys_left_title{font-size : 14px;text-indent : 0px; font-weight : bold;color : #4A4A4A;} /*二级页面左侧名称*/
+.sys_style_explore_class{text-indent : 20px;}  /*二级页面左侧缩进*/
+.sys_tag_web_explore_1 td{color : #ffffff;}  /*默认导航*/
+.sys_tag_web_explore_1 a{font-size : 14px;font-weight : bold;color : #ffffff;text-decoration : none;}  /*默认导航*/
+.sys_style_people_list img{border:1px solid #cccccc;}  /*人物类型列表图片边框*/
+.sys_style_product_list img{border:1px solid #000000;}  /*产品类型列表图片边框*/

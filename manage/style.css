@@ -1,0 +1,64 @@
+BODY {
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+}
+TD{
+  font-size : 12px;
+  line-height : 21px;
+  font-family : Verdana;
+}
+A{
+  color : #074a9c;
+  text-decoration : underline;
+}
+A:HOVER{
+  color : #ff9900;
+  text-decoration : none;
+}
+.input1{
+  width : 120px;
+  height : 20px;
+  font-size : 14px;
+  font-family : Verdana;
+  font-weight : bold;
+}
+input{
+  font-size : 12px;
+}
+.font14{
+  font-size : 14px;
+  font-weight : bold;
+}
+.input2{
+  width : 60px;
+  height : 20px;
+  font-size : 14px;
+  font-family : Verdana;
+  font-weight : bold;
+}
+.white{
+  font-size : 12px;
+  color : #d7e8f7;
+}
+.yellow_14{
+  font-size : 14px;
+  font-weight : bold;
+  color : #ffec00;
+}
+SELECT{
+  font-size : 12px;
+}
+.table td{
+  background-image : url(images/2001.gif);
+  font-size : 12px;
+  font-weight : bold;
+  color : white;
+}
+.table1 td{
+  background-image : url(images/2008.gif);
+  font-size : 12px;
+  font-weight : bold;
+  color : white;
+}
